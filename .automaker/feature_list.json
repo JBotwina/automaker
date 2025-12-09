@@ -81,7 +81,7 @@
     "category": "Kanban",
     "description": "Remove the refresh button from the headers, we should need to ever manually refresh anything if our app is well designed",
     "steps": [],
-    "status": "in_progress"
+    "status": "verified"
   },
   {
     "id": "feature-1765265099914-71eq4x4yl",
